@@ -119,5 +119,5 @@ data = [
 df = pd.DataFrame(data, columns=["ID", "Name", "Column1", "Column2", "Column3", "Column4", "Total"])
 
 # Save to CSV
-df.to_csv("outputcsv.csv", index=False)
+df.to_csv("UF NOV.csv", index=False)
 print("CSV file 'output.csv' created successfully.")
